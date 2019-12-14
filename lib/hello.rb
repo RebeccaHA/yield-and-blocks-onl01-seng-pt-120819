@@ -6,7 +6,7 @@ while i < array.length
   end
 end
 
-# call your method here!
+array = ["Tim", "Tom", "Jim"]
 
 
 
